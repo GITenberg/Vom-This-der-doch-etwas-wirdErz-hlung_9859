@@ -1,0 +1,35 @@
+_repo: Vom-This-der-doch-etwas-wirdErz-hlung_9859
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Spyri, Johanna
+    aliases:
+    - Spyri, Johanna Heusser
+    - Heusser, Johanna Louise
+    birthdate: 1827
+    deathdate: 1901
+    gutenberg_agent_id: '2491'
+    url: http://www.gutenberg.org/2009/agents/2491
+    wikipedia: http://en.wikipedia.org/wiki/Johanna_Spyri
+description: ''
+gutenberg_bookshelf:
+- Children's Literature
+- DE Kinderbuch
+gutenberg_issued: '2006-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '9859'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PT'
+- !lcsh 'Mountain life -- Juvenile fiction'
+- !lcsh 'Switzerland -- Juvenile fiction'
+- !lcc 'PZ'
+- GITenberg
+title: 'Vom This, der doch etwas wird
+
+  Erzählung'
+url: http://www.gutenberg.org/ebooks/9859
